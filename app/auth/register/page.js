@@ -27,7 +27,7 @@ export default function Register() {
         setError(data.message || "Registration failed");
       }
     } catch (error) {
-      setError("An error occurred. Please try again.");
+      setError("An error occurred. Please try again.", error);
     }
   };
 
