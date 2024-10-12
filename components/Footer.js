@@ -11,7 +11,7 @@ export default function Footer() {
           Help me improve the platform by contributing on GitHub.
         </p>
         <a
-          href="https://github.com/tesla1618/chronosync"
+          href="https://github.com/tesla1618/asyncr"
           className="px-6 py-3 my-3 bg-white text-gray-900 rounded-full sm:w-1/4 font-bold hover:bg-gray-200 transition duration-300"
           target="_blank"
           rel="noopener noreferrer"
