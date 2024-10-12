@@ -1,6 +1,6 @@
-# ChronoSync
+# Asyncr
 
-**ChronoSync** is a modern project management tool designed to help users efficiently track their ongoing projects, manage tasks, and optimize their time. Whether you're an individual working on personal projects or part of a team collaborating on larger initiatives, ChronoSync empowers you to stay organized and meet your deadlines with ease.
+**Asyncr** is a modern project management tool designed to help users efficiently track their ongoing projects, manage tasks, and optimize their time. Whether you're an individual working on personal projects or part of a team collaborating on larger initiatives, Asyncr empowers you to stay organized and meet your deadlines with ease.
 
 ## Features
 
@@ -34,7 +34,7 @@
 
 ## Technologies Used
 
-ChronoSync is built using the following technologies, which provide a robust and scalable foundation for the application:
+Asyncr is built using the following technologies, which provide a robust and scalable foundation for the application:
 
 - **Next.js**: A React framework that enables server-side rendering, allowing for improved performance and SEO optimization.
 - **Tailwind CSS**: A utility-first CSS framework that enables rapid and responsive styling, ensuring a modern and visually appealing user interface.
@@ -65,7 +65,7 @@ ChronoSync is built using the following technologies, which provide a robust and
 
 ## Contributing
 
-Contributions to ChronoSync are welcome! If you have suggestions for new features, improvements, or bug fixes, please follow these steps:
+Contributions to Asyncr are welcome! If you have suggestions for new features, improvements, or bug fixes, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
@@ -79,5 +79,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgements
 
-- **Inspiration**: ChronoSync is inspired by modern project management tools that prioritize user experience and efficiency.
+- **Inspiration**: Asyncr is inspired by modern project management tools that prioritize user experience and efficiency.
 - **Open-Source Community**: Special thanks to the open-source community for their invaluable resources, libraries, and support that made this project possible.
