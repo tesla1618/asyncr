@@ -14,7 +14,6 @@ const ProjectsPage = () => {
   const [loading, setLoading] = useState(true);
   const [showModal, setShowModal] = useState(false);
   const [filter, setFilter] = useState({ category: "all", status: "all" });
-  const [showAlert, setShowAlert] = useState(false); // State for alert modal
 
   useEffect(() => {
     if (session) {
