@@ -4,9 +4,9 @@ import { useSession, signOut } from "next-auth/react";
 import { Menu, X, ChevronDown } from "lucide-react";
 
 export const metadata = {
-  title: "Chronosync",
+  title: "Asyncr",
   description:
-    "Chronosync is a project management tool that helps you keep track of your projects, tasks, and deadlines.",
+    "Asyncr is a project management tool that helps you keep track of your projects, tasks, and deadlines.",
 };
 
 export default function Header() {
@@ -23,14 +23,14 @@ export default function Header() {
               href="/projects"
               className="text-2xl font-bold tracking-tight hover:text-blue-200 transition-colors duration-200"
             >
-              Chronosync
+              Asyncr
             </Link>
           ) : (
             <Link
               href="/"
               className="text-2xl font-bold tracking-tight hover:text-blue-200 transition-colors duration-200"
             >
-              Chronosync
+              Asyncr
             </Link>
           )}
 
