@@ -20,7 +20,6 @@ const ProjectsPage = () => {
       fetchProjects();
     } else {
       setLoading(false);
-      setShowAlert(true);
     }
   }, [status]);
 
