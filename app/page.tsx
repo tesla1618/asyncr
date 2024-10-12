@@ -1,11 +1,4 @@
-import {
-  Github,
-  CheckCircle,
-  Flag,
-  ArrowRightCircle,
-  Rocket,
-  PlusCircle,
-} from "lucide-react";
+import { CheckCircle, Flag, ArrowRightCircle, Rocket } from "lucide-react";
 import Link from "next/link";
 import Head from "next/head";
 
