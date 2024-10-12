@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <title>Chronosync</title>
+        <title>Asyncr</title>
         <SessionProvider>
           <Header />
           <main>{children}</main>
