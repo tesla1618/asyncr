@@ -27,7 +27,7 @@ export default function SignIn() {
         router.push("/projects");
       }
     } catch (error) {
-      setError("An error occurred. Please try again.");
+      setError("An error occurred. Please try again.", error);
     }
   };
 
@@ -102,7 +102,7 @@ export default function SignIn() {
               href="/auth/register"
               className="text-purple-600 hover:text-purple-500 font-semibold transition"
             >
-              Don't have an account? Sign up here
+              Dont have an account? Sign up here
             </Link>
           </div>
         </div>
